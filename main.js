@@ -1,6 +1,6 @@
 // Použij výpis do konzole prohlížeče pomocí console.log('text')
 // Konzoli otevřeš v Chrome stiskem F12 (na Windows) nebo Command-Option-I (na Macu)
-console.log('text');
+console.log('while cyklus');
 
 // První příklad - vypiš vzestupně čísla od 0 do 10
 console.log('První příklad - vzestupná řada 0 - 10');
